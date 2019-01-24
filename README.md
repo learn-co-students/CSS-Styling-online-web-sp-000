@@ -1,5 +1,5 @@
 # CSS Styling Code Along
-
+<!-- done in personal branch -->
 ## Objectives
 
 1. Review linking an external CSS file.
